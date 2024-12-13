@@ -1,9 +1,8 @@
 README.md for Call Center Power BI Project
-Overview
 
 ![WhatsApp Image 2024-12-13 at 19 00 02_ca9df6eb](https://github.com/user-attachments/assets/0bb9bd5f-2245-4e24-b957-c010b812fc27)
 
-
+Overview
 This project analyzes call center performance using Power BI. It leverages the "01 Call-Center-Dataset" to provide insights into operational metrics, agent performance, and customer satisfaction.
 
 Dataset Description
@@ -51,4 +50,4 @@ Call Volume Trends: January saw the highest call volume, while March showed stea
 Call Topics: Streaming and technical support dominated the call topics.
 Customer Satisfaction: Average satisfaction scores improved month over month.
 Purpose
-This project aims to optimize call center efficiency, improve agent training, and enhance customer satisfaction through data-driven decisions.
+This project aims to optimize call center efficiency, improve agent training, and enhance customer satisfaction through data-driven decision
